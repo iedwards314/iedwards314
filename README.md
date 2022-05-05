@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Investment analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to value high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2021 I made the decision retool and become a full stack developer myself.
+Financial analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to value high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2021 I made the decision retool and become a full stack developer myself.
 
 Having recently completed App Academy's 24-week full stack software engineering program, I'm now looking for work roles with ample opportunities to continue learning and add value as a developer. 
 
