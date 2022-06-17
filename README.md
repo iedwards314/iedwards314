@@ -2,7 +2,7 @@
 
 Financial analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to value high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2021 I made the decision retool and become a full stack developer myself.
 
-Having recently completed App Academy's 24-week full stack software engineering program, and am starting a new chapter at Bython Media based in the DFW.
+I completed App Academy's 24-week full stack software engineering program in May 2022, and am starting a new chapter at Bython Media based in the DFW.
 
 ### Technologies I use:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
