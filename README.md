@@ -1,12 +1,13 @@
 ### Hello there 👋
 
-Financial analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to value high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2021 I made the decision retool and become a full stack developer myself.
+Financial analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to value high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2021 I made the decision retool and become a full stack developer myself. I am working as a software engineer at Bython Media since June 2021 leveraging Python SQLalchemy for the backend and an Angular framework for the frontend. I have constructed full stack components including a reports feature that allows users to create excel and pdf analytics reports on their respective marketing campaigns. 
 
 I completed App Academy's 24-week full stack software engineering program in May 2022, and am starting a new chapter at Bython Media based in the DFW.
 
 ### Technologies I use:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
