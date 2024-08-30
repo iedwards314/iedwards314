@@ -37,7 +37,7 @@ I am currently working as a product owner at AFG Companies in the DFW since Apri
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Github Stats:
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iedwards314&show_icons=true&theme=cobalt&count_private=true)](https://github.com/iedwards314/github-readme-stats)
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iedwards314&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/iedwards314/github-readme-stats)
 
 ### Ways to Connect: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwards-ian/)
